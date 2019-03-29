@@ -1,0 +1,5 @@
+D:\Abbvie\Projects\POC.DataLayer\bin\Debug\POC.DataLayer.dll
+D:\Abbvie\Projects\POC.DataLayer\bin\Debug\POC.DataLayer.pdb
+D:\Abbvie\Projects\POC.DataLayer\obj\Debug\POC.DataLayer.csprojResolveAssemblyReference.cache
+D:\Abbvie\Projects\POC.DataLayer\obj\Debug\POC.DataLayer.dll
+D:\Abbvie\Projects\POC.DataLayer\obj\Debug\POC.DataLayer.pdb
